@@ -727,3 +727,36 @@
   place: 厦门
   sub: CV
   note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''https://ecai2023.eu/''>here</a>.'
+
+- title: MM Asia
+  year: 2023
+  id: MM Asia2023
+  link: http://www.mmasia2023.org/
+  deadline: '2023-08-12 23:59:59'
+  timezone: UTC-7
+  date: December 6 - 8, 2023
+  place: 台湾
+  sub: MC
+  note: '<b>NOTE</b>: ACML: Asian Conference on Machine Learning. More info <a href=''http://www.mmasia2023.org/''>here</a>.'
+
+- title: MM Asia
+  year: 2024
+  id: MM Asia2024
+  link: http://www.acmmmasia.org/MMA24_CFP.jpg
+  deadline: '2024-09-30 23:59:59'
+  timezone: UTC-7
+  date: December 4 - 6, 2024
+  place: 新西兰奥克兰
+  sub: MC
+  note: '<b>NOTE</b>: More info <a href=''http://www.acmmmasia.org/MMA24_CFP.jpg''>here</a>.'
+
+- title: IEEE EMBC
+  year: 2024
+  id: IEEE EMBC2024
+  link: https://embc.embs.org/2024/welcome/
+  deadline: '2024-xx-xx 23:59:59'
+  timezone: UTC-7
+  date: july 15 - 19, 2024
+  place: Disney's Coronado Springs Resort, Orlando FL, United States
+  sub: BE
+  note: '<b>NOTE</b>: More info <a href=''https://embc.embs.org/2024/welcome/''>here</a>.'
