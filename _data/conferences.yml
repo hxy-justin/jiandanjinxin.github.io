@@ -107,6 +107,18 @@
   sub: CV
   paperslink: https://eccv2023.eu/about-eccv/#
 
+- title: IEEE EMBC2024
+  hindex: 135
+  year: 2024
+  id: EMBC24
+  link: https://embc.embs.org/2024/welcome/
+  deadline: '2024-02-05 23:59:00'
+  timezone: UTC
+  date: july 15-19，2024
+  place: Disney's Coronado Springs Resort, Orlando FL, United States
+  sub: BE
+  paperslink: https://embc.embs.org/2024/welcome/
+
 - title: ICCC-TBD
   hindex: 22
   year: 2024
